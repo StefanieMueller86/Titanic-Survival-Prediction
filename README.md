@@ -1,5 +1,5 @@
 # Titanic-Survival-Prediction
-Comparing Classifiers with a self written ScoreAggregator including GridSearch:
+Comparing Classifiers with (including GridSearch) a self written ScoreAggregator:
 - Random Forest
 - KNN
 - SVM
